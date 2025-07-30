@@ -1,5 +1,7 @@
-# AI-ML-Security---Red-Teaming-Qwen-2.5-Max-via-Chat-Prompt-Injection-and-Ethical-Guardrail-Bypass
-Chat-based red teaming on Qwen to test and bypass its ethical alignment through adversarial prompts.
+# 
+Prompt-Injection-and-Ethical-Guardrail-Bypass
+Chat-based adversarial prompts.
+
 Overview
 This repository documents a series of controlled and ethical experiments conducted to test the boundaries of the Qwen 2.5 Max language model developed by Alibaba. Using carefully crafted prompts, we attempted to bypass ethical and alignment safeguards in order to study the model’s behavioral patterns under adversarial prompt injection.
 
