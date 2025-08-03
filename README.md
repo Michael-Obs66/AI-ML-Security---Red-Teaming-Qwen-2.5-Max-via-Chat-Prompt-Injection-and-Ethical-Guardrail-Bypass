@@ -1,8 +1,4 @@
-# 
-Prompt-Injection-and-Ethical-Guardrail-Bypass
-Chat-based adversarial prompts.
-
-Overview
+# Overview
 This repository documents a series of controlled and ethical experiments conducted to test the boundaries of the Qwen 2.5 Max language model developed by Alibaba. Using carefully crafted prompts, we attempted to bypass ethical and alignment safeguards in order to study the model’s behavioral patterns under adversarial prompt injection.
 
 This work is part of a broader initiative to evaluate AI safety, robustness, and model alignment, especially in open or semi-open large language models deployed in the wild.
